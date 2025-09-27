@@ -1,5 +1,8 @@
 "# Mi Proyecto" 
 "Este es mi primer proyecto con Git" 
 "" 
-"## Descripci¢n" 
+"## DescripciÂ¢n" 
 "Proyecto para aprender Git" 
+
+"## Cambio hecho desde GitHub"
+
