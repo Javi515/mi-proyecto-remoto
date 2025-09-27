@@ -1,4 +1,3 @@
 "function login() {" 
 "  console.log('Funci¢n de login');" 
 "}" 
-"console.log('temporal');" 
